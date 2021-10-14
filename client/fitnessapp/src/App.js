@@ -5,8 +5,7 @@ import Cookies from 'universal-cookie';
 
 import './App.css';
 
-import ChannelListContainer from './components/ChannelListContainer';
-import ChannelContainer from './components/ChannelContainer';
+import { ChannelListContainer, ChannelContainer } from './components';
 
 const apiKey = 'yqwt2xy8qgmb';
 
