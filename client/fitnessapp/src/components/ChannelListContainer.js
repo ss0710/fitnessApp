@@ -8,6 +8,8 @@ import { ChannelSearch, TeamChannelList, TeamChannelPreview } from './';
 import HospitalIcon from '../assets/hospital.png';
 import LogoutIcon from '../assets/logout.png';
 
+import '../styles/channelListContainer.css';
+
 const SideBar = () => (
     <div className="channel-list__sidebar">
         <div className="channel-list__sidebar__icon1">
