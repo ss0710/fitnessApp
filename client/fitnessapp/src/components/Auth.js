@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Auth = () => {
     return (
@@ -8,4 +8,4 @@ const Auth = () => {
     )
 }
 
-export default Auth
+export default Auth;
